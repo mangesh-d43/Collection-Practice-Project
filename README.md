@@ -1,2 +1,2 @@
 # Collection-Practice-Project
-creating for practice of colection
+creating for practice of collection
